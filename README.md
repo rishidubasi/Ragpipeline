@@ -1,4 +1,4 @@
-**RAG-Based Question Answering System**
+<h1>RAG-Based Question Answering System</h1>
 This project implements a Retrieval-Augmented Generation (RAG) system using Google Gemini and ChromaDB with embeddings from HuggingFace. It allows users to ask questions and get informative answers based on provided document content.
 Features
 <H4>PDF Document Ingestion:</H4> Extracts and processes content from PDF files.
@@ -14,10 +14,10 @@ Python 3.8+<br>
 Required Libraries<br>
 pip install google-generativeai langchain langchain-community chromadb sentence-transformers pypdf
 <br>
-**How It Works </br>
-Load PDF Document:** The project uses PyPDFLoader to read and extract text from PDF files.<br>
-**Split Text: **The text is split into smaller chunks using RecursiveCharacterTextSplitter.<br>
-**Generate Embeddings:** HuggingFace's all-MiniLM-L6-v2 creates embeddings for each chunk.<br>
-**Store in ChromaDB:** Chunks and their embeddings are stored in a persistent ChromaDB.<br>
-**Retrieve Context:** The system retrieves the top K relevant text chunks based on a query.<br>
-**Generate Answer:** Google Gemini generates an answer based on the question and retrieved context.<br>
+<h4>How It Works </h4></br>
+<h5>Load PDF Document:</h5> The project uses PyPDFLoader to read and extract text from PDF files.<br>
+<h5>Split Text: </h5>The text is split into smaller chunks using RecursiveCharacterTextSplitter.<br>
+<h5>Generate Embeddings:</h5> HuggingFace's all-MiniLM-L6-v2 creates embeddings for each chunk.<br>
+<h5>Store in ChromaDB:</h5> Chunks and their embeddings are stored in a persistent ChromaDB.<br>
+<h5>Retrieve Context:</h5> The system retrieves the top K relevant text chunks based on a query.<br>
+<h5>Generate Answer:</h5> Google Gemini generates an answer based on the question and retrieved context.<br>
