@@ -12,7 +12,7 @@ Features
 <br>
 Python 3.8+<br>
 Required Libraries<br>
-<a?pip install google-generativeai langchain langchain-community chromadb sentence-transformers pypdf</a>
+<a>pip install google-generativeai langchain langchain-community chromadb sentence-transformers pypdf</a>
 <br>
 <h4>How It Works </h4></br>
 <h5>Load PDF Document:</h5> The project uses PyPDFLoader to read and extract text from PDF files.<br>
