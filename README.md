@@ -7,7 +7,8 @@ Features
 <H4>Contextual Search:</H4> Stores and queries vector embeddings using ChromaDB.
 <H4>Answer Generation:</H4> Leverages Google Gemini API (Generative AI) to provide human-friendly answers.
 <h2>Output:</h2>
-![o1](img/o1.png)
+<img src="https://github.com/rishidubasi/Ragpipeline/blob/main/img/o1.png" alt="Alt Text" />
+
 <br>
 ![o2](https://github.com/user-attachments/assets/993a530d-9664-491c-80a3-40375498a9f3)
 
