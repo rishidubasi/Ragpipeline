@@ -7,12 +7,9 @@ Features
 <H4>Contextual Search:</H4> Stores and queries vector embeddings using ChromaDB.
 <H4>Answer Generation:</H4> Leverages Google Gemini API (Generative AI) to provide human-friendly answers.
 <h2>Output:</h2>
-![o1](https://github.com/user-attachments/assets/fbcf9fe7-1577-4a1c-a08f-8b00dad9be2b)
-
+![o1](https://github.com/user-attachments/assets/9b98800c-0746-4f6e-bc04-4759313fd100)
 <br>
-
-![o2](https://github.com/user-attachments/assets/a123a455-99ad-4d33-8aa5-a1d01015c0be)
-
+![o2](https://github.com/user-attachments/assets/993a530d-9664-491c-80a3-40375498a9f3)
 
 <H2>Requirements</H2>
 <H4>Ensure you have the following dependencies installed:</H4>
