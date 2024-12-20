@@ -8,7 +8,8 @@ Features
 <H4>Answer Generation:</H4> Leverages Google Gemini API (Generative AI) to provide human-friendly answers.
 <h2>Output:</h2>
 <img src="https://github.com/rishidubasi/Ragpipeline/blob/main/img/o1.png" alt="Alt Text" />
-
+<br>
+<img src="https://github.com/rishidubasi/Ragpipeline/blob/main/img/o2.png" alt="Alt Text" />
 <br>
 ![o2](https://github.com/user-attachments/assets/993a530d-9664-491c-80a3-40375498a9f3)
 
