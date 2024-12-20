@@ -6,7 +6,10 @@ Features
 <H4>Embedding Generation: </H4>Uses HuggingFace's all-MiniLM-L6-v2 for generating embeddings.
 <H4>Contextual Search:</H4> Stores and queries vector embeddings using ChromaDB.
 <H4>Answer Generation:</H4> Leverages Google Gemini API (Generative AI) to provide human-friendly answers.
-
+<h2>Output:</h2>
+![Image](img/o1.png)
+<br>
+![Image](img/o2.png)
 <H2>Requirements</H2>
 <H4>Ensure you have the following dependencies installed:</H4>
 <br>
